@@ -10,7 +10,7 @@
       square
       reduce
       v-model="active"
-      :open.sync="activeSidebar"
+      open
     >
       <template #logo size="70px">
         <img src="../assets/dofe - vert.png" alt="" />
